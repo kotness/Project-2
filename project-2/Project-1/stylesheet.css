@@ -1,0 +1,29 @@
+h1, h2, h3, h4, h5, h6 {
+
+font-family: 'Laila', serif;
+border-left: 10px solid #c0c0c0;
+padding: 20px;
+
+}
+
+p, ul {
+
+    font-family: 'Exo 2', sans-serif;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 15px;
+    padding: 25px;
+
+}
+
+* {
+
+background-color: #0d0f87
+
+}
+a {
+
+    text-decoration: none;
+    color: #c0c0c0
+
+}
